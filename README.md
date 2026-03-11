@@ -56,24 +56,6 @@ Visualization:
 
 ---
 
-## Project Structure
-telemetry-viewer
-│
-├── public
-│ ├── maps
-│ └── data
-│
-├── src
-│ ├── components
-│ ├── utils
-│ └── App.jsx
-│
-├── README.md
-└── TECHNICAL_ARCHITECTURE.md
-
-
----
-
 ## Data Format
 
 Each match contains:
