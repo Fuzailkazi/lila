@@ -50,6 +50,12 @@ Visualization:
 
 ---
 
+## Architecture Diagram
+
+![Architecture Diagram](docs/architecture.jpeg)
+
+---
+
 ## Project Structure
 telemetry-viewer
 │
