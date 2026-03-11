@@ -52,7 +52,11 @@ Visualization:
 
 ## Architecture Diagram
 
-![Architecture Diagram](docs/architecture.jpeg)
+<p align="center">
+  <a href="./docs/architecture.jpeg">
+    <img src="./docs/architecture.jpeg" alt="Architecture Diagram" width="900" />
+  </a>
+</p>
 
 ---
 
